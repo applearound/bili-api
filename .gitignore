@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# Environments
+.env/
+env/
+.mypy_cache/
+
+# IDE Settings
+.vscode/
+
+# OS X
+.DS_Store
+
+# Project
+replies.txt
